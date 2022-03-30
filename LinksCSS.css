@@ -1,0 +1,18 @@
+h2{
+    margin: 0px;
+    text-align: center;
+    overflow: auto;
+}
+a{
+    font-family: Chilanka;
+    /*background-color: #a85e00;*/
+    text-align: center;
+    display: block;
+}
+ul{
+    text-align: center;
+   lighting-color: #ffb24d;
+}
+li{
+    text-align: center;
+}

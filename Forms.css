@@ -1,0 +1,16 @@
+.form{
+    alignment: left;
+    margin-left: auto;
+
+  }
+textarea{
+    alignment: left;
+    margin-left: auto;
+}
+ul{
+    border: 5px solid #ffffff;
+    border-collapse: collapse;
+    padding: 2px;
+    alignment: left;
+
+}
